@@ -9,12 +9,14 @@
 28th Feb, 2023
     ---> Found tools named Codeclose, Pycryptodome, Pycrypto, Cython, Simplecrypt
     ---> Prepared a document on these tools
+    ---> https://pypi.org/project/pycryptodome/
 
 1st March, 2023
     ---> Gone through some python libraries, they are encrypting the code but we should decrypt the code to run files
 
 2nd March, 2023
     ---> Done a poc on codeclose but it has some limitations
+    ---> https://juanlao7.github.io/codeclose/
 
 3rd March, 2023
     ---> Gone through the tools listed by vinod named Pyminifier, Pyobfuscator, Cython, Pyarmor, Py2exe
