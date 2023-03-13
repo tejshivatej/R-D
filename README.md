@@ -20,6 +20,7 @@
     ---> Gone through the tools listed by vinod named Pyminifier, Pyobfuscator, Cython, Pyarmor, Py2exe
 
 9th March, 2023
+    ---> Installed Python 3.8 version
     ---> Python 3.8 environment setup 
 
 10th March, 2023
